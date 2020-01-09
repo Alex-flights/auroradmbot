@@ -23,4 +23,4 @@ client.user.setStatus("dnd")
 });
 
 
-client.login("NjY0ODcxNDkwMDgwMDc5ODcz.XhdbVw.qUXWZ2KtT8YCQ10TNyRS-7qqsBM");
+client.login(process.env.BOT_TOKEN);
