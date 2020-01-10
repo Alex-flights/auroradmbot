@@ -18,7 +18,7 @@ client.on("message", message => {
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}! on ${client.guilds.size}`);
-  client.user.setGame(`FREE BOT BUY PREMIUM TO CHANGE NAME AND CUSTOM STATUS`)
+  client.user.setGame(`Bots never rest just like Aurora`)
 client.user.setStatus("dnd")
 });
 
